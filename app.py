@@ -26,3 +26,10 @@ else:
 """ x = "test"
 print(f"hello {x}") """
 
+temp = 75
+if temp > 68:
+    print('warm')
+if temp == 68:
+    print('perfect')
+else:
+    print('cold')
