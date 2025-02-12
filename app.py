@@ -36,4 +36,5 @@ elif service == "good":
 elif service == "great":
     print("You tipped 25%") """
 
+def number(x,y)
 range(1, x)
