@@ -26,10 +26,14 @@ else:
 """ x = "test"
 print(f"hello {x}") """
 
-temp = 75
-if temp > 68:
-    print('warm')
-if temp == 68:
-    print('perfect')
-else:
-    print('cold')
+""" service = input("Was the service bad, okay, good, or great? ")
+if service == "bad":
+    print("You tipped 0%")
+elif service == "okay":
+    print("You tipped 15%")
+elif service == "good":
+    print("You tipped 20%")
+elif service == "great":
+    print("You tipped 25%") """
+
+range(1, x)
