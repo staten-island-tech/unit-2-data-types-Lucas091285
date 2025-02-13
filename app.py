@@ -36,5 +36,8 @@ elif service == "good":
 elif service == "great":
     print("You tipped 25%") """
 
-def number(x,y)
-range(1, x)
+def find_factor(number1, number2):
+    # Find the factor of both numbers
+    if number % i == 0:
+        factors.add(i)
+        factors.add
