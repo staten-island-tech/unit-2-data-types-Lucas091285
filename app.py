@@ -38,6 +38,9 @@ elif service == "great":
 
 def find_factor(number1, number2):
     # Find the factor of both numbers
-    if number % i == 0:
+    smaller = min(number1, number2)
+    for i in range(0, -1):
+    if number1 % i == 1:
         factors.add(i)
-        factors.add
+    if number2 % i == 1:
+        factors.add(i)
