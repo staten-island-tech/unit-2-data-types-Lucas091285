@@ -39,7 +39,7 @@ elif service == "great":
 # Python Program to find the factors of a number
 
 # This function computes the factor of the argument passed
-""" def print_factors(x):
+def print_factors(x):
    print("The factors of",x,"are:")
    for i in range(1, x + 1):
        if x % i == 0:
@@ -48,6 +48,8 @@ elif service == "great":
 num = 60
 
 print_factors(num)
+
+
 # Python Program to find the factors of a number
 
 # This function computes the factor of the argument passed
@@ -57,53 +59,12 @@ def print_factors(y):
        if y % i == 0:
            print(i)
 
-num = 320
+num = 120
 
-print_factors(num) """
+print_factors(num)
 
-def gcf(x, y):
-  """
-  Calculate the greatest common factor (GCF) of two numbers using the Euclidean algorithm.
-
-  Args:
-    x: The first number.
-    y: The second number.
-
-  Returns:
-    The greatest common factor of x and y.
-  """
-  while(y):
-    x, y = y, x % y
-  return x
-
-# Example usage
-x = 60
-y = 30
-result = gcf(x, y)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-x = "I went to my friends house"
-if x = "I went to my friends house":
-    print('I was excited to hang out there')
-
-
-
-
-
-
-
+#find the gcf of x and y
+def gcf(x,y):
+    if x == 60 and y == 120:
+        print('Find the gcf of x and y')
+        
