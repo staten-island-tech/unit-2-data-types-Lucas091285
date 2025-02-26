@@ -39,7 +39,7 @@ elif service == "great":
 # Python Program to find the factors of a number
 
 # This function computes the factor of the argument passed
-def print_factors(x):
+""" def print_factors(x):
    print("The factors of",x,"are:")
    for i in range(1, x + 1):
        if x % i == 0:
@@ -65,6 +65,25 @@ print_factors(num)
 
 #find the gcf of x and y
 def gcf(x,y):
-    if x == 60 and y == 120:
-        print('Find the gcf of x and y')
-        
+    print("The Gcf of" ,x, "and" ,y,"is:")
+    for i in range(x + 1, y+1):
+        if x % i and y % i == 0:
+            print(i) """
+
+
+
+for i in range(4)
+
+
+values = [t, s]
+print(values)
+for i in values:
+    print(i)
+    print(values[t])
+    print(values[s])
+
+x = "The red cat sat on the mat"
+y= x.split( )
+z = y[0]
+print(y)
+print(z)
