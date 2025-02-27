@@ -62,20 +62,46 @@ def print_factors(y):
 num = 120
 
 print_factors(num)
+ """
+def math( ):
+a = 36
+b = 60
 
-#find the gcf of x and y
-def gcf(x,y):
-    print("The Gcf of" ,x, "and" ,y,"is:")
-    for i in range(x + 1, y+1):
-        if x % i and y % i == 0:
-            print(i) """
+gcf = math.gcd(a, b)
+print(f"The GCF of {a} and {b} is {gcf}")
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+""" text(The red cat sat on the mat.)
+letters("T","h","e","r","d","c","a","s","o","n","m")
 for i in range(4)
+def language()
+french = 0
+english = 0
+if letter == "s" or letter "S"
+    french = +1 """
 
-
-values = [t, s]
+""" values = [t, s]
 print(values)
 for i in values:
     print(i)
@@ -86,4 +112,4 @@ x = "The red cat sat on the mat"
 y= x.split( )
 z = y[0]
 print(y)
-print(z)
+print(z) """
