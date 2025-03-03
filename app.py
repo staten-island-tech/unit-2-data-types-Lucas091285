@@ -67,25 +67,5 @@ import math
 num1 = 36
 num2 = 60
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 gcf = math.gcd(num1, num2)
 print(f"The GCF of {num1} and {num2} is {gcf}")
