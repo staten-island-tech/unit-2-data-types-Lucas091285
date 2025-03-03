@@ -63,12 +63,9 @@ num = 120
 
 print_factors(num)
  """
-def math( ):
-a = 36
-b = 60
-
-gcf = math.gcd(a, b)
-print(f"The GCF of {a} and {b} is {gcf}")
+import math
+num1 = 36
+num2 = 60
 
 
 
@@ -90,25 +87,5 @@ print(f"The GCF of {a} and {b} is {gcf}")
 
 
 
-
-
-""" text(The red cat sat on the mat.)
-letters("T","h","e","r","d","c","a","s","o","n","m")
-for i in range(4)
-def language()
-french = 0
-english = 0
-if letter == "s" or letter "S"
-    french = +1 """
-""" values = [t, s]
-print(values)
-for i in values:
-    print(i)
-    print(values[t])
-    print(values[s])
-
-x = "The red cat sat on the mat"
-y= x.split( )
-z = y[0]
-print(y)
-print(z) """
+gcf = math.gcd(num1, num2)
+print(f"The GCF of {num1} and {num2} is {gcf}")
