@@ -100,7 +100,6 @@ french = 0
 english = 0
 if letter == "s" or letter "S"
     french = +1 """
-
 """ values = [t, s]
 print(values)
 for i in values:
